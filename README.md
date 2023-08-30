@@ -7,8 +7,7 @@ Hello! I'm Remen Aikhomu, a passionate Full Stack Developer and freelancer. With
 ## Skills
 
 - **Front-End Development:** HTML, CSS, JavaScript, jQuery
-- **ReactJS:** Proficient in building dynamic and interactive user interfaces using React.
-- **Back-End Development:** Django, RESTful API development
+- **Back-End Development:** Django
 - **Version Control:** Git, GitHub
 - **Responsive Design:** Ensuring optimal performance across various devices and screen sizes.
 
@@ -25,21 +24,19 @@ I've been working as a freelance developer, collaborating with clients to bring 
    - Managed room reservations, guest check-ins, staff management, and billing.
    - Enhanced user experience through intuitive interfaces and real-time updates.
 
-2. **Blog for Developers**
-   - Developed a developer-focused blog using React and integrated content management features.
-   - Implemented user authentication, comment sections, and dynamic content rendering.
+2. **Developer Blog Platform**
+   - Created a developer-focused blog platform using Django.
+   - Implemented features like article publishing, commenting, and user profiles.
    - Shared coding tutorials, insights, and tech-related articles.
 
 ## Open Source Contributions
 
-I believe in the power of open source and have contributed to various projects on GitHub, especially within the React and Django communities.
+I believe in the power of open source and have contributed to various projects on GitHub, especially within the Django community.
 
 ## Contact Me
 
 - Email: Aikhomuremen@gmail.com
-- LinkedIn: [Remen Aikhomu](https://www.linkedin.com/in/remen-aikhomu)
-- Twitter: [@codeRemenius](https://twitter.com/codeRemenius)
+- LinkedIn: [Remen Aikhomu](https://www.linkedin.com/in/remen-aikhomu-57210a213)
 
 Let's connect and discuss how I can help bring your ideas to life through innovative and effective web development solutions.
-
 
